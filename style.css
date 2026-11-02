@@ -96,9 +96,10 @@ h2 {
     margin-left: auto;
     margin-right: auto;
     font-family: "Trebuchet MS";
+    background-color: aliceblue;
 }
 .highlight-box {
-    background-color:aquamarine;
+    background-color: aquamarine;
     border-left: 4px solid #0e60df;
     padding: 15px 20px;
 }
