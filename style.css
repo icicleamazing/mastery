@@ -1,6 +1,9 @@
 ul {
     list-style-type: none;
 } 
+li {
+    box-shadow: 4px 4px 6px #838383
+}
 body {
     background-color: #b0daf7;
 }
@@ -52,6 +55,7 @@ h1 {
     quote-align: center;
     justify-content: center;
     text-align: center;
+    box-shadow: 2px 3px 3px #838383
 }
 .changelog {
     max-width: 700px;
@@ -63,6 +67,7 @@ h1 {
     margin-bottom: 12px;
     background-color: white;
     border-radius: 15px;
+    box-shadow: 6px 6px 9px #838383
 }
 .date {
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", sans-serif;
@@ -78,6 +83,7 @@ h1 {
     background-color: white;
     border: 1px solid #333;
     border-radius: 10px;
+    box-shadow: 10px 10px 15px #838383
 }
 .header-container {
     max-width: fit-content;
@@ -86,6 +92,7 @@ h1 {
     background-color:lightskyblue;
     border: 1px solid #333;
     border-radius: 10px;
+    box-shadow: 10px 10px 15px #838383
 }
 h2 {
     border-top: 1px solid #0e60df;
@@ -97,13 +104,14 @@ h2 {
     margin-left: auto;
     margin-right: auto;
     font-family: "Trebuchet MS";
-    background-color: lightblue;
-    box-shadow: 10px 10px 15px #838383
+    background-color: aliceblue;
+    box-shadow: 4px 4px 6px #838383
 }
 .highlight-box {
     background-color: aquamarine;
     border-left: 4px solid #0e60df;
     padding: 15px 20px;
+    box-shadow: 4px 4px 6px #838383
 }
 #menu-container {
     max-width: auto;
@@ -111,6 +119,7 @@ h2 {
     padding: 20px;
     border: 0.5px solid #333;
     border-radius: 15px;
+    box-shadow: 4px 4px 6px #838383
 }
 .photo-container {
     max-width: 680px;
@@ -125,6 +134,7 @@ h2 {
     image-resolution: from-image;
     justify-content: center;
     align-items: center;
+    box-shadow: 4px 4px 6px #838383
 }
 img {
     max-width: 400px;
@@ -136,4 +146,5 @@ img {
     margin-right: auto;
     margin-top: 20px;
     margin-bottom: 20px;
+    box-shadow: 4px 4px 6px #838383
 }
