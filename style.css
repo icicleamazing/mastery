@@ -87,6 +87,7 @@ h1 {
     border-radius: 10px;
 }
 h2 {
+    border-top: 1px solid #0e60df;
     border-bottom: 3px solid #0e60df;
     padding-bottom: 5px;
     margin-top: 25px;
